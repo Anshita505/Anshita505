@@ -50,13 +50,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshita505&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshita505&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 📸 **Instagram:** [@digitalbalika](https://www.instagram.com/digital_balika_/)
