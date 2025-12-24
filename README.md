@@ -23,8 +23,8 @@
 - 📊 **Data Analyst** with 3+ years of experience in turning complex data into actionable insights.
 - 🎓 **MSc in Data Science** with a focus on Predictive Analytics and Machine Learning.
 - 👩‍💻 **Founder of Digital Balika**, an initiative empowering women through digital literacy and AI.
-- 🎤 **Public Speaker**, recently hosted the AI panel at GDG London DevFest 2024.
-- 🌍 Currently mastering German (A1-B2 journey!)
+- 🎤 **Public Speaker**, hosted the AI panel at GDG London DevFest 2024.
+
 
 ---
 
