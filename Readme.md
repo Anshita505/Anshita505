@@ -12,10 +12,7 @@
 
 
 
-<p align="left">
- <a href="https://copy-of-personal-portfol-geix6um.gamma.site/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" hspace="5">
- </a>
+<p>
  <a href="https://youtube.com/shorts/dP0aES0eHoI?si=mlFFxmnGD1qvck7u" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" hspace="5">
  </a>
@@ -27,10 +24,10 @@
 ---
 
 ## 💫 About Me
-- 📊 **Data Analyst** with 3+ years of experience in turning complex data into actionable insights.
-- 🎓 **MSc in Data Science** with a focus on Predictive Analytics and Machine Learning.
-- 👩‍💻 **Founder of Digital Balika**, an initiative empowering women through digital literacy and AI.
-- 🎤 **Public Speaker**, hosted the AI panel at GDG London DevFest 2024.
+📊 **Data Analyst** with 3+ years of experience in turning complex data into actionable insights.
+🎓 **MSc in Data Science** with a focus on Predictive Analytics and Machine Learning.
+👩‍💻 **Founder of Digital Balika**, an initiative empowering women through digital literacy and AI.
+🎤 **Public Speaker**, hosted the AI panel at GDG London DevFest 2024.
 
 
 ---
@@ -46,10 +43,10 @@
 ---
 
 ## 🚀 Key Projects
-- 🤖 **Multilingual Diet Chatbot:** Built using Google Cloud Dialogflow & Vertex AI.
-- 🏥 **Healthcare Insights Dashboard:** Visualized disease trends using Looker Studio for public health impact.
-- 📈 **Google Play Store Analysis:** ML models (SVM, KNN) achieving 99% accuracy on 30k records.
-- 🩸 **Diabetes Prediction:** Random Forest model with 96% accuracy for early-stage detection.
+🤖 **Multilingual Diet Chatbot:** Built using Google Cloud Dialogflow & Vertex AI.
+🏥 **Healthcare Insights Dashboard:** Visualized disease trends using Looker Studio for public health impact.
+📈 **Google Play Store Analysis:** ML models (SVM, KNN) achieving 99% accuracy on 30k records.
+🩸 **Diabetes Prediction:** Random Forest model with 96% accuracy for early-stage detection.
 
 ---
 
@@ -62,8 +59,8 @@
 ---
 
 ## 🤝 Let's Connect!
-- 📸 **Instagram:** [@digitalbalika](https://www.instagram.com/digital_balika_/)
-- 💼 **Professional Portfolio:** [View Here](https://copy-of-personal-portfol-geix6um.gamma.site/)
+📸 **Instagram:** [@digitalbalika](https://www.instagram.com/digital_balika_/)
+💼 **Professional Portfolio:** [View Here](https://copy-of-personal-portfol-geix6um.gamma.site/)
 
 
 ### 🐍 My Contributions Snake
