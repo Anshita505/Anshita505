@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Hey+I'm+Anshita!+✨" alt="Typing SVG" />
   </h1>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgzOGV5eTI2bTdmdHlrbjlud2dqM3R6ZmRlbGo5dDRxYWh6b205cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IovTZpWOmIJeT19IiG/giphy.gif" width="500px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgzOGV5eTI2bTdmdHlrbjlud2dqM3R6ZmRlbGo5dDRxYWh6b205cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IovTZpWOmIJeT19IiG/giphy.gif" width="350px">
 
 <h3 align="center">Data Analyst | Founder @DigitalBalika | MSc Data Science</h3>
 
