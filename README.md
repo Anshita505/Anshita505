@@ -1,5 +1,8 @@
-# Hi there, I'm Anshita👋 
-### Data Analyst | Founder of Digital Balika | AI Enthusiast
+
+            <img src="https://media.licdn.com/dms/image/v2/D4E22AQE2VDZMzn9_aA/feedshare-shrink_2048_1536/B4EZWfiFQyGwAw-/0/1742138279432?e=1768435200&v=beta&t=WqDWpZih9C3dS_QBGx2nHojFap9xGSMjSBduCCbZcsc" width="150" height="150" style="border-radius: 50%;" align="right" />
+            
+                                                                    # Hi there, I'm Anshita👋 
+                                                     ### Data Analyst | Founder of Digital Balika | AI Enthusiast
 
 <p align="left">
  <a href="https://copy-of-personal-portfol-geix6um.gamma.site/" target="_blank">
