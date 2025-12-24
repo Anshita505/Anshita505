@@ -1,5 +1,5 @@
-div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E22AQE2VDZMzn9_aA/feedshare-shrink_2048_1536/B4EZWfiFQyGwAw-/0/1742138279432?e=1768435200&v=beta&t=WqDWpZih9C3dS_QBGx2nHojFap9xGSMjSBduCCbZcsc" width="150" style="border-radius: 50%; border: 3px solid #4285F4;" />
+<div align="center">
+ 
 
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Hey+I'm+Anshita!+✨" alt="Typing SVG" />
@@ -7,7 +7,6 @@ div align="center">
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgzOGV5eTI2bTdmdHlrbjlud2dqM3R6ZmRlbGo5dDRxYWh6b205cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IovTZpWOmIJeT19IiG/giphy.gif" width="300px">
 
-<h1 align="center">Hi 👋, I'm Anshita</h1>
 <h3 align="center">Data Analyst | Founder @DigitalBalika | MSc Data Science</h3>
 
 
