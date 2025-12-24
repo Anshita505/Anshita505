@@ -1,96 +1,55 @@
-<h1 align="center">Hi 👋, I'm a Founder of Digital balika & Data Science Enthusiast</h1>
-<h3 align="center">Turning data into actionable insights | Empowering women through tech</h3>
+# Hi there, I'm [Your Name] 👋 
+### Data Analyst | Founder of Digital Balika | AI Enthusiast
 
-<p align="center">
-  <a href="https://copy-of-personal-portfol-geix6um.gamma.site/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.youtube.com/@DigitalBalika" target="_blank">📺 YouTube</a> •
-  <a href="https://www.linkedin.com/" target="_blank">💼 LinkedIn</a>
+<p align="left">
+ <a href="https://copy-of-personal-portfol-geix6um.gamma.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" hspace="5">
+ </a>
+ <a href="https://www.youtube.com/@DigitalBalika" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" hspace="5">
+ </a>
+ <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5">
+ </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-📊 **Data Professional with 3+ years of experience** delivering actionable insights across **higher education and digital platforms**.  
-🎓 MSc Data Science graduate with strong academic research and applied analytics background.  
-🧠 Passionate about **data storytelling**, **service improvement**, and **real-world impact**.  
-🚀 Founder of **Digital Balika**, empowering women through digital literacy & AI awareness.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Analytics**
-- Python | SQL | Excel  
-
-**BI & Visualization**
-- Power BI | Tableau | Looker Studio  
-
-**Data & Cloud**
-- Google Analytics | BigQuery | GCP | Vertex AI  
-
-**Methods**
-- Customer & Marketing Analytics  
-- Churn & Segmentation Analysis  
-- Predictive Modeling  
-- KPI Frameworks & Dashboards  
+## 💫 About Me
+- 📊 **Data Analyst** with 3+ years of experience in turning complex data into actionable insights.
+- 🎓 **MSc in Data Science** with a focus on Predictive Analytics and Machine Learning.
+- 👩‍💻 **Founder of Digital Balika**, an initiative empowering women through digital literacy and AI.
+- 🎤 **Public Speaker**, recently hosted the AI panel at GDG London DevFest 2024.
+- 🌍 Currently mastering German (A1-B2 journey!)
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **Early-Stage Diabetes Prediction**
-- Random Forest model with **96% accuracy**
-- Identified key health risk factors for early diagnosis
-
-🔹 **Google Play Store App Analysis**
-- ML models (Decision Tree, KNN, SVM)
-- Achieved **99% accuracy** on 29,999 records
-
-🔹 **Healthcare Analytics Dashboard**
-- Built in **Looker Studio**
-- Visualized disease trends for public health insights
-
-🔹 **AI Diet Chatbot**
-- Multilingual chatbot using **Dialogflow & Vertex AI**
-- Personalized nutrition recommendations
-
-🔹 **Women in Data Science Research**
-- Gender diversity analysis in IT
-- Proposed inclusive STEM participation strategies
-
-👉 *More projects available in my repositories below ⬇️*
+## 🛠 Tech Stack & Tools
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Viz** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Cloud & AI** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![VertexAI](https://img.shields.io/badge/Vertex_AI-757575?style=for-the-badge&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-6699FF?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Key Projects
+- 🤖 **Multilingual Diet Chatbot:** Built using Google Cloud Dialogflow & Vertex AI.
+- 🏥 **Healthcare Insights Dashboard:** Visualized disease trends using Looker Studio for public health impact.
+- 📈 **Google Play Store Analysis:** ML models (SVM, KNN) achieving 99% accuracy on 30k records.
+- 🩸 **Diabetes Prediction:** Random Forest model with 96% accuracy for early-stage detection.
 
+---
+
+## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🎥 Content & Community
-
-📺 **YouTube – Digital Balika**
-- AI awareness & digital literacy
-- Women empowerment in tech
-- Career guidance in data & analytics
-
-🎤 **Community & Leadership**
-- MC at **GDG London – DevFest 2024**
-- Local Governor – Agate Momentum Trust
-- Contributor to gender equity research in STEM
-
----
-
-## 📫 Let's Connect
-
-📩 Open to collaborations, analytics roles, and impact-driven projects  
-🌍 Based in the India| Open to global opportunities  
-
-🎥 Do not forget to follow me on Youtube:https://www.youtube.com/@DigitalBalika
-
-⭐ *If you like my work, consider starring my repositories!*
+## 🤝 Let's Connect!
+- 📸 **Instagram:** [@digitalbalika](https://www.instagram.com/digitalbalika)
+- 💼 **Professional Portfolio:** [View Here](https://copy-of-personal-portfol-geix6um.gamma.site/)
