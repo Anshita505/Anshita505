@@ -24,10 +24,10 @@
 ---
 
 ## 💫 About Me
-📊 **Data Analyst** with 3+ years of experience in turning complex data into actionable insights.
-🎓 **MSc in Data Science** with a focus on Predictive Analytics and Machine Learning.
-👩‍💻 **Founder of Digital Balika**, an initiative empowering women through digital literacy and AI.
-🎤 **Public Speaker**, hosted the AI panel at GDG London DevFest 2024.
+- 📊 **Data Analyst** with 3+ years of experience in turning complex data into actionable insights.
+- 🎓 **MSc in Data Science** with a focus on Predictive Analytics and Machine Learning.
+- 👩‍💻 **Founder of Digital Balika**, an initiative empowering women through digital literacy and AI.
+- 🎤 **Public Speaker**, hosted the AI panel at GDG London DevFest 2024.
 
 
 ---
@@ -43,17 +43,17 @@
 ---
 
 ## 🚀 Key Projects
-🤖 **Multilingual Diet Chatbot:** Built using Google Cloud Dialogflow & Vertex AI.
-🏥 **Healthcare Insights Dashboard:** Visualized disease trends using Looker Studio for public health impact.
-📈 **Google Play Store Analysis:** ML models (SVM, KNN) achieving 99% accuracy on 30k records.
-🩸 **Diabetes Prediction:** Random Forest model with 96% accuracy for early-stage detection.
+- 🤖 **Multilingual Diet Chatbot:** Built using Google Cloud Dialogflow & Vertex AI.
+- 🏥 **Healthcare Insights Dashboard:** Visualized disease trends using Looker Studio for public health impact.
+- 📈 **Google Play Store Analysis:** ML models (SVM, KNN) achieving 99% accuracy on 30k records.
+- 🩸 **Diabetes Prediction:** Random Forest model with 96% accuracy for early-stage detection.
 
 ---
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshita505&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshita505&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
