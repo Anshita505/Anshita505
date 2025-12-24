@@ -7,19 +7,31 @@
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgzOGV5eTI2bTdmdHlrbjlud2dqM3R6ZmRlbGo5dDRxYWh6b205cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IovTZpWOmIJeT19IiG/giphy.gif" width="350px">
 
-<h3 align="center">Data Analyst | Founder @DigitalBalika | MSc Data Science</h3>
+<table align="center" border="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h3 align="left">Data Analyst | Founder @DigitalBalika | MSc Data Science</h3>
+      <p align="left">
+        I transform complex data into actionable insights with 3+ years of experience. 
+        As the founder of <b>Digital Balika</b>, I am passionate about digital literacy and 
+        empowering women through AI.
+      </p>
+      <p align="left">
+        <a href="https://youtube.com/shorts/dP0aES0eHoI?si=mlFFxmnGD1qvck7u" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/anshita-mehra/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+      </p>
+    </td>
+    <td width="30%" align="right" valign="top">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pncGhucWNvaTdld25kZXR3dHp6ZzgwbHQ3OWthNWYwcnFjbzhjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVnfYLZ47B97jdgei/giphy.gif" width="180px">
+    </td>
+  </tr>
+</table>
 
-
-
-
-<p>
- <a href="https://youtube.com/shorts/dP0aES0eHoI?si=mlFFxmnGD1qvck7u" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" hspace="5">
- </a>
- <a href="https://www.linkedin.com/in/anshita-mehra/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5">
- </a>
-</p>
+---
 
 ---
 
