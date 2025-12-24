@@ -29,7 +29,9 @@
 - 👩‍💻 **Founder of Digital Balika**, an initiative empowering women through digital literacy and AI.
 - 🎤 **Public Speaker**, hosted the AI panel at GDG London DevFest 2024.
 
-
+<td valign="top">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pncGhucWNvaTdld25kZXR3dHp6ZzgwbHQ3OWthNWYwcnFjbzhjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVnfYLZ47B97jdgei/giphy.gif" width="150px">
+    </td>
 ---
 
 ## 🛠 Tech Stack & Tools
