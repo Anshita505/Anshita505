@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Anshita👋 
 ### Data Analyst | Founder of Digital Balika | AI Enthusiast
 
 <p align="left">
