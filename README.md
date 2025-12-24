@@ -51,5 +51,5 @@
 ---
 
 ## 🤝 Let's Connect!
-- 📸 **Instagram:** [@digitalbalika](https://www.instagram.com/digitalbalika)
+- 📸 **Instagram:** [@digitalbalika](https://www.instagram.com/digital_balika_/)
 - 💼 **Professional Portfolio:** [View Here](https://copy-of-personal-portfol-geix6um.gamma.site/)
