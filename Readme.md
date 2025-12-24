@@ -12,10 +12,11 @@
     <td width="70%" valign="top">
       <h3 align="left">Data Analyst | Founder @DigitalBalika | MSc Data Science</h3>
       <p align="left">
-        I transform complex data into actionable insights with 3+ years of experience. 
-        As the founder of <b>Digital Balika</b>, I am passionate about digital literacy and 
-        empowering women through AI.
-      </p>
+  I’m deeply passionate about technology and enjoy exploring how data and AI can create real-world impact. 
+  I actively attend and engage in tech events, enjoy listening and learning from the community, and love contributing 
+  to initiatives that support and empower others. As the founder of <b>Digital Balika</b>, I’m especially motivated by 
+  using technology to promote digital literacy and uplift women in tech.
+</p>
       <p align="left">
         <a href="https://youtube.com/shorts/dP0aES0eHoI?si=mlFFxmnGD1qvck7u" target="_blank">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -71,4 +72,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshita505/Anshita505/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshita505/Anshita505/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anshita505/Anshita505/output/github-contribution-grid-snake.svg">
+
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+
 </picture>
