@@ -16,10 +16,10 @@
  <a href="https://copy-of-personal-portfol-geix6um.gamma.site/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" hspace="5">
  </a>
- <a href="https://www.youtube.com/@DigitalBalika" target="_blank">
+ <a href="https://youtube.com/shorts/dP0aES0eHoI?si=mlFFxmnGD1qvck7u" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" hspace="5">
  </a>
- <a href="YOUR_LINKEDIN_URL" target="_blank">
+ <a href="https://www.linkedin.com/in/anshita-mehra/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5">
  </a>
 </p>
