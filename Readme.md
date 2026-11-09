@@ -57,8 +57,8 @@ using technology to promote digital literacy and uplift women in tech.
 
 ## 🤝 Let's Connect!
 
-📸 **Instagram:** @digitalbalika
-💼 **Professional Portfolio:** View Here
+📸 **Instagram:** @digital_balika_
+💼 **Professional Portfolio:** https://a.anshitaportfolio.workers.dev/
 
 ### 🐍 My Contributions Snake
 
